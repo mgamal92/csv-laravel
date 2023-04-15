@@ -2,9 +2,9 @@
 
 namespace MG\CSV;
 
+use MG\CSV\Commands\CSVCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use MG\CSV\Commands\CSVCommand;
 
 class CSVServiceProvider extends PackageServiceProvider
 {
