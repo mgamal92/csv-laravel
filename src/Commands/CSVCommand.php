@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace MG\CSV\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class CSVCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'csv-laravel';
 
     public $description = 'My command';
 
