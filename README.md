@@ -5,7 +5,7 @@
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/mgamal/csv-laravel/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/mgamal/csv-laravel/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/mgamal/csv-laravel.svg?style=flat-square)](https://packagist.org/packages/mgamal/csv-laravel)
 
-This is where your description should go. Limit it to a paragraph or two. Consider adding a small example.
+You will be able to interact with CSV file even in huge size in some operations like read, write, get Information, stream download and import using queues.
 
 ## Installation
 
